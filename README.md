@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 ![image of a cat](/cat_image.jpg)
 
 
-# Project Title
+# bamsse
 
 Final project for the Building AI course
 
